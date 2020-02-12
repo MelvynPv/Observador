@@ -1,0 +1,11 @@
+D:\ProyectosParacticas\Observador\Ejercicio1\AzureDevopsConsole\AzureDevopsConsole\bin\Debug\netcoreapp3.1\AzureDevopsConsole.exe
+D:\ProyectosParacticas\Observador\Ejercicio1\AzureDevopsConsole\AzureDevopsConsole\bin\Debug\netcoreapp3.1\AzureDevopsConsole.deps.json
+D:\ProyectosParacticas\Observador\Ejercicio1\AzureDevopsConsole\AzureDevopsConsole\bin\Debug\netcoreapp3.1\AzureDevopsConsole.runtimeconfig.json
+D:\ProyectosParacticas\Observador\Ejercicio1\AzureDevopsConsole\AzureDevopsConsole\bin\Debug\netcoreapp3.1\AzureDevopsConsole.runtimeconfig.dev.json
+D:\ProyectosParacticas\Observador\Ejercicio1\AzureDevopsConsole\AzureDevopsConsole\bin\Debug\netcoreapp3.1\AzureDevopsConsole.dll
+D:\ProyectosParacticas\Observador\Ejercicio1\AzureDevopsConsole\AzureDevopsConsole\bin\Debug\netcoreapp3.1\AzureDevopsConsole.pdb
+D:\ProyectosParacticas\Observador\Ejercicio1\AzureDevopsConsole\AzureDevopsConsole\obj\Debug\netcoreapp3.1\AzureDevopsConsole.csprojAssemblyReference.cache
+D:\ProyectosParacticas\Observador\Ejercicio1\AzureDevopsConsole\AzureDevopsConsole\obj\Debug\netcoreapp3.1\AzureDevopsConsole.AssemblyInfoInputs.cache
+D:\ProyectosParacticas\Observador\Ejercicio1\AzureDevopsConsole\AzureDevopsConsole\obj\Debug\netcoreapp3.1\AzureDevopsConsole.AssemblyInfo.cs
+D:\ProyectosParacticas\Observador\Ejercicio1\AzureDevopsConsole\AzureDevopsConsole\obj\Debug\netcoreapp3.1\AzureDevopsConsole.dll
+D:\ProyectosParacticas\Observador\Ejercicio1\AzureDevopsConsole\AzureDevopsConsole\obj\Debug\netcoreapp3.1\AzureDevopsConsole.pdb
